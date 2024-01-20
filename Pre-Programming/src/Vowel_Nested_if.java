@@ -1,6 +1,7 @@
 public class Vowel_Nested_if 
 {
-		public static void main(String[]args)
+	//nested vowels	
+	public static void main(String[]args)
 		{
 			 char ch = '%';
 			 if(ch >='A'&& ch <='Z')
